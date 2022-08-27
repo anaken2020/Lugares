@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/andre/AndroidStudioProjects/Lugares/app/src/main/res/layout/activity_main.xml" value="0.33242753623188404" />
-        <entry key="..\:/Users/andre/OneDrive/Documents/GitHub/Lugares/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_principal.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/app_bar_principal.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/content_principal.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/fragment_add_lugar.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/fragment_lugar.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/fragment_update_lugar.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/nav_header_principal.xml" value="0.17325227963525835" />
       </map>
     </option>
   </component>

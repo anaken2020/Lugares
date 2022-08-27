@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lugares.iml" filepath="$PROJECT_DIR$/.idea/modules/Lugares.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lugares.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lugares.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lugares.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lugares.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lugares.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lugares.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lugares.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lugares.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lugares_v.iml" filepath="$PROJECT_DIR$/.idea/modules/Lugares_v.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lugares_v.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lugares_v.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lugares_v.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lugares_v.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lugares_v.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lugares_v.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lugares_v.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lugares_v.app.unitTest.iml" />
     </modules>
   </component>
 </project>
